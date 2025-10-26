@@ -1,0 +1,2 @@
+source D:/Progs/ESP/projects/test_htn/build/bootloader/gdbinit/symbols
+source D:/Progs/ESP/projects/test_htn/build/bootloader/gdbinit/connect
